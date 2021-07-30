@@ -1,2 +1,2 @@
 # Dodge_obstacle
-#testing commmit
+this is just a prototype. Main game still not released.
